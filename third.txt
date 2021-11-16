@@ -1,3 +1,4 @@
 third
 test git diff
+developer A
 developer B
